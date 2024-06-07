@@ -1,6 +1,6 @@
 # resolve <sup>[![Version Badge][2]][1]</sup>
 
-implements the [node `require.resolve()` algorithm](https://nodejs.org/api/modules.html#modules_all_together) such that you can `require.resolve()` on behalf of a file asynchronously and synchronously
+implements the [node `require.resolve()` algorithm](https://nodejs.org/api/modules.html#all-together) such that you can `require.resolve()` on behalf of a file asynchronously and synchronously
 
 [![github actions][actions-image]][actions-url]
 [![coverage][codecov-image]][codecov-url]
